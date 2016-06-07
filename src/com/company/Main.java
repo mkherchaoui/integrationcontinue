@@ -18,7 +18,6 @@ public class Main {
                 resultat=true;
             }
         }
-
      return resultat;
     }
 
